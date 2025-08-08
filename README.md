@@ -38,4 +38,19 @@ Algorithme Minimax( au cours du développement)
 Deep Q-Learning (IA avancée)( au cours du développement)
 
 
+
+## ⚠️ Remarque d'exécution
+
+Le fichier **`fonction.exe`** ne fonctionne pas encore, car il est lié à l’option **IA avancée**  
+(modes *Hard* et *Insane*) dont la configuration n’a pas encore été finalisée.
+
+Pour tester le jeu, veuillez utiliser **`play.exe`**, qui contient la version pleinement fonctionnelle avec :
+- Mode **Joueur vs Joueur**
+- Mode **Joueur vs Machine – Normal (facile)**
+
+Cela permet de profiter de toutes les fonctionnalités complètes déjà implémentées,  
+tout en laissant la possibilité de développer et d’intégrer ultérieurement les niveaux IA avancés.
+
+
+
 📂 Structure du projet
