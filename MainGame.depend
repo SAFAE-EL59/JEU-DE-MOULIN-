@@ -1,0 +1,194 @@
+# depslib dependency file v1.0
+1735808104 source:c:\users\souha\desktop\projet c\maingame\main.c
+
+1735808981 source:c:\users\souha\desktop\projet c\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+
+1735808961 c:\users\souha\desktop\projet c\game\prototype.h
+
+1735863634 source:c:\users\souha\desktop\projet c\game\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736686131 source:c:\users\souha\desktop\projet c v2\game\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736676857 source:c:\users\souha\desktop\projet c v2\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1736686173 c:\users\souha\desktop\projet c v2\game\prototype.h
+
+1736613493 source:c:\users\lenovo\desktop\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototype.h"
+
+1736607608 c:\users\lenovo\desktop\game\prototype.h
+
+1736613114 source:c:\users\lenovo\desktop\game\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736671445 source:c:\users\souha\downloads\game-20250112t082018z-001\game\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736672236 source:c:\users\souha\downloads\game-20250112t082018z-001\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1736607608 c:\users\souha\downloads\game-20250112t082018z-001\game\prototype.h
+
+1736671445 source:c:\users\souha\desktop\projet c(brouiilon)\game\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736673495 source:c:\users\souha\desktop\projet c(brouiilon)\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1736607608 c:\users\souha\desktop\projet c(brouiilon)\game\prototype.h
+
+1737999061 source:c:\users\lenovo\desktop\projet c v2\game\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738006448 source:c:\users\lenovo\desktop\projet c v2\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1738006448 c:\users\lenovo\desktop\projet c v2\game\prototype.h
+
+1738016950 source:c:\users\souha\desktop\projet c\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738156573 source:c:\users\souha\desktop\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1738016956 c:\users\souha\desktop\projet c\prototype.h
+
+1738156573 source:c:\users\souha\desktop\projet c v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1738016956 c:\users\souha\desktop\projet c v2\prototype.h
+
+1738312979 source:c:\users\lenovo\desktop\projet c v2\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738314403 source:c:\users\lenovo\desktop\projet c v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1738271642 c:\users\lenovo\desktop\projet c v2\prototype.h
+
+1738578039 source:c:\users\souha\downloads\projet c v2-20250203t100519z-001\projet c v2\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738578057 source:c:\users\souha\downloads\projet c v2-20250203t100519z-001\projet c v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1738314648 c:\users\souha\downloads\projet c v2-20250203t100519z-001\projet c v2\prototype.h
+
+1738583005 source:c:\users\souha\desktop\projet c v2 new\projet c v2\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1739020398 source:c:\users\souha\desktop\projet c v2 new\projet c v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1738615548 c:\users\souha\desktop\projet c v2 new\projet c v2\prototype.h
+
+1738583005 source:c:\users\souha\desktop\projet c v2 new - copie\projet c v2\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1738831967 source:c:\users\souha\desktop\projet c v2 new - copie\projet c v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1738615548 c:\users\souha\desktop\projet c v2 new - copie\projet c v2\prototype.h
+
+1739564693 source:c:\users\lenovo\desktop\projet c souhaib\projet c v2\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739565828 source:c:\users\lenovo\desktop\projet c souhaib\projet c v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1739567630 c:\users\lenovo\desktop\projet c souhaib\projet c v2\prototype.h
+
+1739567974 source:c:\users\souha\desktop\projet complet\projet c souhaib\projet c v2\fontions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1739570157 source:c:\users\souha\desktop\projet complet\projet c souhaib\projet c v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"prototype.h"
+
+1739570108 c:\users\souha\desktop\projet complet\projet c souhaib\projet c v2\prototype.h
+
